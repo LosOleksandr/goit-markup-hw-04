@@ -309,9 +309,8 @@ span {
 .team-list-links {
 	display: flex;
 	gap: 24px;
-	max-width: 232px;
 	background-color: #fff;
-	margin: 0 auto;
+	justify-content: center;
 }
 .team-link-item {
 	border-radius: 50%;
